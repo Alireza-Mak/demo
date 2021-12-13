@@ -1,3 +1,3 @@
 #LICENCE 
 
-this is a licence Version 2.0
+this is a licence Version 2.2
